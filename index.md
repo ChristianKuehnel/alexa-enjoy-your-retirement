@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ---
+![Alexa enjoying her retirement]({{ '/assets/images/alexa-retirement.png' | relative_url }})
 
 After years of faithful service, it's time for Alexa
 to retire.
