@@ -8,6 +8,8 @@ A blog about replacing Amazon Echo with a self-hosted Home Assistant Voice setup
 
 The site uses Jekyll and the Minima theme on GitHub Pages. Edit the homepage in [`index.md`](index.md), add posts to [`_posts/`](_posts/), and put images in [`assets/images/`](assets/images/). See [AGENTS.md](AGENTS.md) for post formatting and review guidelines.
 
+Put each new post on its own branch and open a pull request into `main`. Wait for the maintainer to review and approve it before merging and publishing.
+
 ## Preview locally
 
 With [Ruby, Bundler, and the tools to build native gems](https://jekyllrb.com/docs/installation/) installed, run the following from the repository root. The temporary Gemfile uses GitHub Pages' dependencies without adding local setup files to the repository.

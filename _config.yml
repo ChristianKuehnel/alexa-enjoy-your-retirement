@@ -8,3 +8,4 @@ plugins:
 exclude:
   - AGENTS.md
   - README.md
+  - docs/
